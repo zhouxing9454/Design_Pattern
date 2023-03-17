@@ -1,4 +1,4 @@
-package Create_mode
+package Factory_Method
 
 import "testing"
 

@@ -12,7 +12,7 @@
 工厂方法的优点就在于避免了创建者和具体产品之间的紧密耦合，从而使得代码更容易维护。
 */
 
-package Create_mode
+package Factory_Method
 
 import "fmt"
 
